@@ -1,0 +1,10 @@
+//.bg-color{
+    background-color: aquamarine;
+}
+.navbar-brand img{
+    width: 100px;
+}
+.navbar-nav > li > a:hover{
+    background-color: lightgreen;
+    border-radius: 20px;
+}
