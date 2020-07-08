@@ -21,11 +21,11 @@ button{
     background-color: rgb(0, 204, 102);
     padding: 5px 20px;
 }
-.card-img-top{
+.card2-img{
     width: 100px;
     height: 100px;
 }
-.card{
+.book-area .card{
     border:none;
     border-radius: 10px;
     background-color: rgb(224, 245, 224);;
@@ -34,4 +34,7 @@ button{
     padding: 5px;
     background-color: white;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card3-img{
+    
 }
