@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif
+}
 .section-color{
     background-color: rgb(211, 253, 211);
 }
@@ -17,4 +20,18 @@ button{
     color: white;
     background-color: rgb(0, 204, 102);
     padding: 5px 20px;
+}
+.card-img-top{
+    width: 100px;
+    height: 100px;
+}
+.card{
+    border:none;
+    border-radius: 10px;
+    background-color: rgb(224, 245, 224);;
+}
+.card:hover{
+    padding: 5px;
+    background-color: white;
+    box-shadow: 5px 5px 10px lightgray;
 }
